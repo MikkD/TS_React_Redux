@@ -19,3 +19,7 @@ code {
 .mr_1{
   margin: 1rem 0px;
 }
+
+.completed{
+  text-decoration: line-through;
+}
